@@ -1,7 +1,5 @@
 # SidSphere
 
-### Interactive Portfolio · Creative Technology · Digital Folio
-
 **SidSphere** is my personal portfolio website — a digital folio built to bring together my work, skills, education, experience, certificates, achievements, and creative interests in one interactive experience.
 
 Rather than following the usual portfolio/dashboard layout, SidSphere is designed as an **interactive editorial-style folio**, combining typography, motion, depth, visual storytelling, and responsive web design.
