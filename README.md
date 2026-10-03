@@ -346,7 +346,3 @@ https://sidhaaarth24.github.io/sidsphere/
 This project is licensed under the terms specified in the repository's [`LICENSE`](LICENSE) file.
 
 ---
-
-### Built with curiosity.
-
-**SidSphere — a considered collection of work, ideas, and experiments.**
