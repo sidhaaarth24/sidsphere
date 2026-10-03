@@ -1,0 +1,109 @@
+{
+  "roles": ["engineer", "developer", "designer", "programmer", "editor", "translator", "author", "artist"],
+  "hero": {
+    "eyebrow": "Computer Science · Design · Creative Technology",
+    "title": ["Sidharth", "Kumar"],
+    "description": "I take ideas that exist only in my head and turn them into polished digital experiences people can actually use.",
+    "primaryCta": "Explore my work",
+    "secondaryCta": "Let's connect"
+  },
+  "about": {
+    "kicker": "01 / about",
+    "headline": ["Curiosity", "made tangible."],
+    "paragraphs": [
+      "I'm Sidharth Kumar, a Computer Science & Engineering student who loves turning ideas into digital experiences.",
+      "From websites and interfaces to creative projects, I explore the intersection of technology, design and creativity.",
+      "I'm constantly learning new technologies, experimenting with ideas and improving the way I build things."
+    ]
+  },
+  "skills": [
+    ["Frontend", "HTML · CSS · JavaScript"],
+    ["Programming", "C · Python · Java"],
+    ["Backend", "Firebase"],
+    ["Database", "Firestore"],
+    ["Document Markup", "Markdown · LaTeX"],
+    ["Design", "UI · UX · Web · Graphic · Illustration · Presentation · Email · Typography"],
+    ["Version Control", "Git · GitHub"],
+    ["Operating Systems", "Windows · macOS · iOS · Linux · Android"],
+    ["Tools", "Visual Studio Code · Apple Creative Studio · Adobe Creative Suite · LibreOffice · Canva · CorelDRAW · Inkscape · WordPress · Figma"],
+    ["Artificial Intelligence", "ChatGPT · Claude · Gemini · Grok · Copilot · Julius · Perplexity · LM Studio · Runway · MidJourney · Seedance · Kling · Sora"],
+    ["Soft Skills", "Communication · Leadership · Adaptability · Time Management · Quick Learner · Problem Solving · Hard Working"],
+    ["Creativity", "Image/Video Generation, Writing & Data Analysis using Ai · Calligraphy & Handwriting · Translator, Transliterator & Transcriber · Artist · Content Creator & Social Media Manager · Editor · Prompt"]
+  ],
+  "languages": {
+    "spoken": ["English", "Hindi (हिन्दी)", "Bhojpuri (𑂦𑂷𑂔𑂣𑂳𑂩𑂲)", "Magahi (𑂧𑂏𑂯𑂲)", "Maithili (𑒧𑒻𑒟𑒱𑒪𑒲)", "Bangla (বাংলা)", "Urdu (اُرْدُو)"],
+    "scripts": ["Roman", "Devanagari", "Eastern Nagari", "Kaithi", "Tirhuta", "Gujarati", "Nastaliq", "Naskh"]
+  },
+  "education": [
+    {
+      "period": "2025 — 2028",
+      "type": "Engineering diploma",
+      "title": "Government Polytechnic Institute",
+      "details": ["Supaul, India", "Computer Science & Engineering", "State Board of Technical Education"]
+    },
+    {
+      "period": "2015 — 2025",
+      "type": "Secondary education",
+      "title": "St. Anne's High School",
+      "details": ["Patna, India", "General Studies", "Central Board of Secondary Education"]
+    }
+  ],
+  "experience": [
+    {
+      "period": "2026 — 2027",
+      "type": "Contractual / Temporary",
+      "title": "Training & Placement Coordinator",
+      "description": "Coordinated training and placement activities for students, organized workshops, and facilitated industry interactions to enhance employability skills.",
+      "company": "Govt. Polytechnic Institute"
+    },
+    {
+      "period": "June 2026",
+      "type": "Internship",
+      "title": "Web Designer",
+      "description": "Completed a 1-month internship in web design, working on responsive layouts, UI design, and user-friendly websites.",
+      "company": "Amyra Cadezone Pvt. Ltd."
+    }
+  ],
+  "projects": [
+    {"name": "SidSphere", "meta": "01", "description": "Personal portfolio website with an interactive code-inspired interface.", "url": "https://sidhaaarth24.github.io/sidsphere/", "image": "images/projects/project1.png"},
+    {"name": "CalcX", "meta": "02", "description": "A basic, scientific and engineering calculator web application with unit conversion.", "url": "https://sidhaaarth24.github.io/calcx/", "image": "images/projects/project2.png"},
+    {"name": "PassForge", "meta": "03", "description": "A password manager web application to check password strength and generate strong passwords.", "url": "https://sidhaaarth24.github.io/passforge/", "image": "images/projects/project3.png"},
+    {"name": "My Works Drive", "meta": "Drive", "description": "A Google Drive folder containing all my works, projects, and documents.", "url": "https://drive.google.com/drive/folders/1yy9t0jdydu0Nlz9HO58oNg8P9aviou_L?usp=share_link", "image": "images/projects/project4.png"}
+  ],
+  "certificates": [
+    {"number": "01", "issuer": "Cisco Networking Academy", "title": "Introduction to Cybersecurity", "description": "Certificate for completing an introduction to cybersecurity and its fundamental concepts.", "image": "images/certificates/certificate1.png", "url": "https://www.credly.com/badges/5f781509-b77f-4b3f-a7f1-3423204b32e1/embedded"},
+    {"number": "02", "issuer": "Cisco Networking Academy", "title": "Introduction to IoT", "description": "Certificate for completing an introduction to Internet of Things (IoT) and its fundamental concepts.", "image": "images/certificates/certificate2.png", "url": "https://www.credly.com/badges/9444d273-8f06-4195-9bf2-ac1a952e13b0/embedded"},
+    {"number": "03", "issuer": "Cisco Networking Academy", "title": "Introduction to Modern AI", "description": "Certificate for completing an introduction to modern artificial intelligence (AI) and its fundamental concepts.", "image": "images/certificates/certificate3.png", "url": "https://www.credly.com/badges/c378b357-c76a-4159-9fef-30795d2b6926/embedded"},
+    {"number": "04", "issuer": "Cisco Networking Academy", "title": "Introduction to Data Science", "description": "Certificate focused on foundational concepts and workflows in data science.", "image": "images/certificates/certificate4.png", "url": "https://www.credly.com/badges/38889060-8b19-4138-b571-fe35e067817f/embedded"},
+    {"number": "05", "issuer": "Amyra Cadezone Pvt. Ltd.", "title": "Internship in Web Designing", "description": "Certificate for completing a web design internship.", "image": "images/certificates/certificate5.png", "url": "https://cadezonedesign.com/verify-certificate.php?cert_no=CADE%2F26%2FWD%2F321"},
+    {"number": "06", "issuer": "be10x", "title": "AI Tools Workshop", "description": "Certificate for participating in an AI tools workshop.", "image": "images/certificates/certificate6.png", "url": "https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971703678"},
+    {"number": "07", "issuer": "Coursera", "title": "Build Website with WordPress", "description": "Course completion certificate for building websites with WordPress.", "image": "images/certificates/certificate7.png", "url": "https://www.coursera.org/account/accomplishments/verify/PP9HSFO1F0FK"},
+    {"number": "08", "issuer": "Coursera", "title": "SEO with Squarespace", "description": "Course completion certificate covering search engine optimization with Squarespace.", "image": "images/certificates/certificate8.png", "url": "https://www.coursera.org/account/accomplishments/verify/ZF7BE3VHPP62"}
+  ],
+  "award": {
+    "number": "01",
+    "issuer": "Government of India",
+    "title": "Pariksha Pe Charcha 2023",
+    "description": "A Government of India initiative encouraging students to interact and discuss examination, learning and student-related experiences.",
+    "images": ["images/awards/award1.jpeg", "images/awards/award2.jpeg"]
+  },
+  "contact": {
+    "form": "https://docs.google.com/forms/d/e/1FAIpQLScYkwIUiO87GaXWFugKqochY8cwAIWiqM5UN4p9yEP4dtCgbg/viewform",
+    "email": "sidhaaarth.work@gmail.com"
+  },
+  "socials": [
+    ["Instagram", "https://instagram.com/sidhaaarth24"],
+    ["Facebook", "https://www.facebook.com/profile.php?id=61589138392154"],
+    ["Snapchat", "https://www.snapchat.com/add/sidhaaarth.24"],
+    ["LinkedIn", "https://www.linkedin.com/in/sidhaaarth24"],
+    ["X", "https://x.com/sidhaaarth24"],
+    ["Threads", "https://threads.net/@sidhaaarth24"],
+    ["Discord", "https://discord.gg/dJ9rqzEjJB"],
+    ["Pinterest", "https://pinterest.com/sidhaaarth24"],
+    ["GitHub", "https://github.com/sidhaaarth24"],
+    ["Spotify", "https://open.spotify.com/user/31q74t27dd7n655tcrnp5mq5ascq"],
+    ["YouTube", "https://www.youtube.com/@sidhaaarth24"],
+    ["Figma", "https://www.figma.com/@sidhaaarth24"],
+    ["Slack", "https://join.slack.com/t/sidharthsworkspacehq/shared_invite/zt-4avbvvm0l-oMP4Eoqsm8AvTuH271llkQ"]
+  ]
+}
